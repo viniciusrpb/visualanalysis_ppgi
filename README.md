@@ -8,15 +8,19 @@ Encontrar padrões nos desempenhos acadêmicos dos doutorandos do Programa de P�
 
 ## Questões de pesquisa
 
-Q1 - Quais disciplinas ocorrem mais reprovações/desistências/
+- Q1 - Como é, de maneira geral, o desempenho dos doutorandos nas disciplinas do PPGI?
+- Q2 - Quais disciplinas ocorrem mais reprovações/desistências/trancamentos entre os doutorandos do PPGI?
+- Q3 - Quais disciplinas são mais comuns a ocorrência de créditos concedidos?
+- Q4 - Existe alguma relação de desempenho entre as disciplinas cursadas pelos doutorandos?
+
 
 ## Revisão sistemática de literatura
 
-Bases: Scopus, Web of Science, IEEE, ACM, Wiley e 
+**Bases:** Scopus, Web of Science, IEEE, ACM, Wiley e 
 
-String de busca Internacional: ("graduate student" OR "phd candidate") AND ("academic performance" OR "visual analysis" OR "visual analytics" OR "educational data mining" OR "visual data mining" OR "data mining" OR "knowledge discovery on databases")
+- String de busca Internacional: ("graduate student" OR "phd candidate") AND ("academic performance" OR "visual analysis" OR "visual analytics" OR "educational data mining" OR "visual data mining" OR "data mining" OR "knowledge discovery on databases")
 
-String de busca Nacional: ("aluno de doutorado" OR "aluno de mestrado") AND ("desempenho acadêmico" OR "análise visual" OR "visualização analítica" OR "mineração de dados educacionais" OR "mineração visual de dados" OR "mineração de dados")
+- String de busca (Português-BR): ("aluno de doutorado" OR "aluno de mestrado") AND ("desempenho acadêmico" OR "análise visual" OR "visualização analítica" OR "mineração de dados educacionais" OR "mineração visual de dados" OR "mineração de dados")
 
 **Discussão:** poucos trabalhos na literatura sobre a análise de desempenho de alunos de pós-graduação, especialmente doutorado.
 
