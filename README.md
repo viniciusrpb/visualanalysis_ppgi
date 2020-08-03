@@ -1,8 +1,8 @@
 # Análise visual dos dados acadêmicos dos doutorandos do PPGI
 
-# Objetivo 
+## Objetivo 
 
-ncontrar padrões nos desempenhos acadêmicos dos doutorandos do Programa de Pós-Graduação em Informática, sob responsabilidade do Departamento de Ciência da Computação (CiC).
+Encontrar padrões nos desempenhos acadêmicos dos doutorandos do Programa de Pós-Graduação em Informática do Departamento de Ciência da Computação (CiC).
 
 **Atenção:** o estudo e a pesquisa realizada e armazenada neste repositório é de **responsabilidade única** do prof. Dr. Vinícius Ruela Pereira Borges (UnB/CiC), portanto, não reflete a opinião ou qualquer colaboração com os professores credenciados ao PPGI.
 
@@ -10,22 +10,25 @@ ncontrar padrões nos desempenhos acadêmicos dos doutorandos do Programa de Pó
 
 Q1 - Quais disciplinas ocorrem mais reprovações/desistências/
 
-## Revisão sistemática
+## Revisão sistemática de literatura
 
-Bases: Scopus, Web of Science, IEEE, ACM, Wiley
+Bases: Scopus, Web of Science, IEEE, ACM, Wiley e 
 
 String de busca Internacional: ("graduate student" OR "phd candidate") AND ("academic performance" OR "visual analysis" OR "visual analytics" OR "educational data mining" OR "visual data mining" OR "data mining" OR "knowledge discovery on databases")
 
 String de busca Nacional: ("aluno de doutorado" OR "aluno de mestrado") AND ("desempenho acadêmico" OR "análise visual" OR "visualização analítica" OR "mineração de dados educacionais" OR "mineração visual de dados" OR "mineração de dados")
 
+**Discussão:** poucos trabalhos na literatura sobre a análise de desempenho de alunos de pós-graduação, especialmente doutorado.
+
 ## Metodologia e Resultados
 
 Todos os detalhes estão no arquivo **analysis_ppgi.ipynb**.
 
-## Principais pontos de discussão
+## Informações relevantes
 
 - Grande parte das reprovações ocorre nas disciplinas de núcleo básico, tanto em números absolutos, quanto proporcionalmente à quantidade de alunos que cursam essas disciplinas;
-- 96,2% das matrículas realizadas em disciplinas resultaram em aprovação (menções MM, MS e SS)
+- 96,2% das matrículas realizadas em disciplinas resultaram em aprovação (menções MM, MS e SS);
+- 19,41% das matrículas estavam relacionadas com aproveitamento de créditos ou créditos concedidos. "Teoria da Computação" e "Projeto e Complexidade de Algoritmos" são as disciplinas com maior quantidade de registros de aproveitamento de crédito;
 
 ## Referências
 
